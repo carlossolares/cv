@@ -66,7 +66,7 @@ width: 100%;
 }
 
 .fondo{
-    background-image: url(../img/fondo.jpg);
+    background-image: url(../fondo.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     height: 15rem;
