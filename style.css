@@ -65,7 +65,7 @@ width: 100%;
     max-width: 1200px;
 }
 
-.fondo{
+.fondo-contenido{
     background-image: url(../fondo.jpg);
     background-repeat: no-repeat;
     background-size: cover;
