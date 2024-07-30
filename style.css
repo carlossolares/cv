@@ -96,7 +96,9 @@ width: 100%;
 }
 @media (max-width: 390px){
     .navegacion-principal a{
-        display:block;
+        display: flex;
+        flex-direction:row;
+        
     }
 }
 @media (min-width: 768px){
