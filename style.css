@@ -94,6 +94,11 @@ width: 100%;
     margin-bottom: 2rem;
     color: var(--primario);
 }
+@media (max-width: 390px){
+    .navegacion-principal a{
+        display:block;
+    }
+}
 @media (min-width: 768px){
     .contenedor-campos{
         display: grid;
